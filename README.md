@@ -1,5 +1,5 @@
 
-## Dekteksi Plat Nomor (Crop & Identifikasin Nomer)
+## Dekteksi Plat Nomor (Crop & Identifikasin Nomor)
 
 Proses pengolahan citra untuk deteksi plat nomor (crop & identifikasi nomor) melibatkan beberapa tahapan penting. Tahapan pertama adalah pra-pemrosesan, di mana gambar asli dimuat dan diperbaiki kualitasnya dengan meningkatkan kontras, kecerahan, dan mengurangi noise menggunakan filter atau operasi morfologi. Pra-pemrosesan ini penting untuk memperoleh citra yang lebih jelas dan memudahkan deteksi plat nomor.
 
@@ -13,7 +13,7 @@ Terakhir, tahap crop dan identifikasi nomor dilakukan. Setelah plat nomor terdet
 
 Dengan mengikuti tahapan-tahapan ini, output gambar yang dihasilkan akan mencakup gambar asli yang telah diperbaiki, gambar dengan plat nomor yang terdeteksi dan diisolasi, citra biner yang menyoroti plat nomor, serta citra tepi yang menyoroti kontur dan garis pada plat nomor. Output ini memberikan informasi yang berguna dalam visualisasi dan analisis lebih lanjut terhadap proses deteksi plat nomor.
     
-## tahapan cara menyelesaikan projek
+## Tahapan cara menyelesaikan projek
 
 Berikut adalah tahapan rinci tentang cara menyelesaikan proyek deteksi plat nomor (crop & identifikasi nomor) dan menghasilkan output gambar berisi gambar asli, plat yang terdeteksi, binary image, dan edges image:
 
